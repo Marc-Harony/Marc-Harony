@@ -18,11 +18,11 @@ Hi there, I'm Marc_Harony, a 22-year-old Sysadmin from France. Here are a few th
 - I'm currently in my 3rd year of post-graduate studies in IT networks and telecommunications 🎓
 - I spent a year studying at TUDublin 📚
 
-## Programming
+## Computing
 
 - I have experience with several programming languages, including JS, Java, C, and Python 🖥️
 - I'm a big fan of Linux 🐧, and I find bash scripts easy to work with 💻
-- I know HTML/CSS, but I'm not very good at design. I can follow the rules, but I struggle to come up with a design for a website 🌐
+- I also know how to use Docker 🐳, as I've worked on several projects for the company I'm currently working at.
 
 ## Work
 

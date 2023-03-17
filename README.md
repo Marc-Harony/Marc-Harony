@@ -11,7 +11,8 @@ Hi there, I'm Marc_Harony, a 22-year-old Sysadmin from France. Here are a few th
 ## Hobbies
 
 - I've spent more than 5,000 hours playing Minecraft 🎮
-- I'm a big fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, and Factorio 🏭
+- I'm a big fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, DOOM ╾━╤デ╦︻ and Factorio 🏭
+- Fan of Deathcode
 
 ## Education
 

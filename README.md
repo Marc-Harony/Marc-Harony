@@ -16,7 +16,7 @@ Hi there, I'm Marc_Harony, a 23-year-old Junior IT Infrastructure Engineer from 
 
 ## Education
 
-- I'm currently in my 4rd year of post-graduate studies in IT networks and telecommunications 🎓
+- I'm currently in my 5th year of post-graduate studies in IT networks and telecommunications 🎓
 - I spent a year studying at TUDublin 📚
 
 ## Computing

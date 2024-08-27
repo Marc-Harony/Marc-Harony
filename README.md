@@ -27,7 +27,7 @@ Hi there, I'm Marc_Harony, a 23-year-old Junior IT Infrastructure Engineer from 
 
 ## Work
 
-- I'm currently working as a Junior IT Infrastructure Engineer 👨‍💼
+- I'm currently working as a Junior IT Infrastructure Engineer in Geneva👨‍💼
 
 Thanks for taking the time to read my README! If you have any questions or just want to say hi, feel free to reach out. 👋
 

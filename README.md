@@ -11,7 +11,7 @@ Hi there, I'm Marc_Harony, a 23-year-old Junior IT Infrastructure Engineer from 
 ## Hobbies
 
 - Minecraft enjoyer 🎮
-- I'm a huge fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, DOOM ╾━╤デ╦︻ and Factorio 🏭
+- I'm a huge fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, DOOM ╾━╤デ╦︻ and Factorio 🏭, TUNIC 🦊, Hollow Knight 🪡
 - Fan of Deathcode
 
 ## Education

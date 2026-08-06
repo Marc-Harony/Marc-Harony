@@ -30,7 +30,3 @@ Hi there, I'm Marc_Harony, a 25-year-old Junior IT Infrastructure Engineer from 
 - I'm currently working as a Junior IT Infrastructure Engineer in Geneva👨‍💼
 
 Thanks for taking the time to read my README! If you have any questions or just want to say hi, feel free to reach out. 👋
-
-## Stats
-![img](https://github-readme-stats.vercel.app/api?username=Marc-Harony&show_icons=true&theme=onedark) <br>
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Harony&show_icons=true&theme=onedark)

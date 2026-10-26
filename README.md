@@ -6,12 +6,12 @@ Hi there, I'm Marc_Harony, a 25-year-old Junior IT Infrastructure Engineer from 
 
 - **Nickname:** Marc_Harony 🤵
 - **Nationality:** French 🇫🇷 🥖
-- **Age:** 25 🎂
+- **Age:** 26 🎂
 
 ## Hobbies
 
 - Minecraft enjoyer 🎮
-- I'm a huge fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, DOOM ╾━╤デ╦︻ and Factorio 🏭, TUNIC 🦊, Hollow Knight 🪡
+- I'm a huge fan of video games, including Terraria 🗡️, No Man's Sky 🚀, Valheim 🪓, DOOM ╾━╤デ╦︻, Factorio 🏭, TUNIC 🦊, Hollow Knight 🪡
 - Fan of Deathcore
 
 ## Education
@@ -21,7 +21,7 @@ Hi there, I'm Marc_Harony, a 25-year-old Junior IT Infrastructure Engineer from 
 
 ## Computing
 
-- I have experience with several programming languages, including JS, Java, C, and Python 🖥️ (but I still suck at it)
+- I have experience with several programming languages, including JS, Java, and Python 🖥️ (but I still suck at it)
 - I'm a big fan of Linux 🐧
 - I'm currently trying to master Docker 🐳, as I've worked on several projects for the company I'm currently working at.
 
